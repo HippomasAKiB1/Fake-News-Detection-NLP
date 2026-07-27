@@ -252,4 +252,4 @@ Fake-News-Detection-NLP/
 
 ---
 
-<p align="center"><i>AIUB Computer Science Department • Natural Language Processing Course (Summer 2025-2026)</i></p>
+<p align="center"><i>American International University-Bangladesh • Department of Computer Science and Engineering • Natural Language Processing Course (Summer 2025-2026)</i></p>
